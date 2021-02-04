@@ -1,10 +1,11 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## Holle World for P5.js
+#### by Jingyi Zhao
+February 2nd 2021
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
+Aimple Hello World text diplau
 
 
 ### Technical Details
